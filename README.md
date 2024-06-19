@@ -13,33 +13,60 @@ This assignment aims to familiarize you with the tools and configurations necess
 1. Select Your Operating System (OS):
    Choose an operating system that best suits your preferences and project requirements. Download and Install Windows 11. https://www.microsoft.com/software-download/windows11
 
+   I have my windows 11 up and running !
+
 2. Install a Text Editor or Integrated Development Environment (IDE):
    Select and install a text editor or IDE suitable for your programming languages and workflow. Download and Install Visual Studio Code. https://code.visualstudio.com/Download
+
+   Already installed my vscode and writing code
+
 3. Set Up Version Control System:
    Install Git and configure it on your local machine. Create a GitHub account for hosting your repositories. Initialize a Git repository for your project and make your first commit. https://github.com
+
+   "My first commit in plp"
 
 4. Install Necessary Programming Languages and Runtimes:
   Instal Python from http://wwww.python.org programming language required for your project and install their respective compilers, interpreters, or runtimes. Ensure you have the necessary tools to build and execute your code.
 
+  Installed python and its extensions in the vs code, emmet, sql extensions etc
+
 5. Install Package Managers:
    If applicable, install package managers like pip (Python).
+
+   * Installed pip , up and running well
 
 6. Configure a Database (MySQL):
    Download and install MySQL database. https://dev.mysql.com/downloads/windows/installer/5.7.html
 
+   * Downloaded and installed version 8.0.37. Installed workbench and shell. I am ready to work and learn
+
 7. Set Up Development Environments and Virtualization (Optional):
-   Consider using virtualization tools like Docker or virtual machines to isolate project dependencies and ensure consistent environments across different machines.
+   * Consider using virtualization tools like Docker or virtual machines to isolate project dependencies and ensure consistent environments across different machines.
+   
+   * My virual machine is isolated and working well
 
 8. Explore Extensions and Plugins:
    Explore available extensions, plugins, and add-ons for your chosen text editor or IDE to enhance functionality, such as syntax highlighting, linting, code formatting, and version control integration.
 
+   I have already installed several, emmet, python, javascript(ES6),code runner, django etc
 9. Document Your Setup:
     Create a comprehensive document outlining the steps you've taken to set up your developer environment. Include any configurations, customizations, or troubleshooting steps encountered during the process. 
+ steps:
+   1. I have my windows 11 updated and working well
+   
+   2. installed vs code from official site and it did not give me any headache at all. I ensured that i installed the right extensions to enable me have a smooth coding journey as per your recommendations.
+
+   3. I installed git and have my github account ready. I have mastered a few git commands to ensure that i can work with a project smoothly, Like using cd, mkdir , installing pip, django and code . for running the vs code. Awesome !!
+   4. Writing code with the above set up done, i have done atleat a few lines of codes to show case my projecr..
 
 #Deliverables:
 - Document detailing the setup process with step-by-step instructions and screenshots where necessary.
 - A GitHub repository containing a sample project initialized with Git and any necessary configuration files (e.g., .gitignore).
 - A reflection on the challenges faced during setup and strategies employed to overcome them.
+
+* note:
+ I created a simple webpage inside my Sample_project using html and css.
+ Faced little challenges during my installations and 
 
 #Submission:
 Submit your document and GitHub repository link through the designated platform or email to the instructor by the specified deadline.
